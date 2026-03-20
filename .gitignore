@@ -1,0 +1,18 @@
+# Credentials — NEVER commit
+api/config.php
+*.env
+
+# Logs
+api/errors.log
+errors.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
